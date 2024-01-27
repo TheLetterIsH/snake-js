@@ -2,4 +2,4 @@
 
 A Snake clone in vanilla JavaScript.
 
-Play: theletterish.github.io/Snake
+Play it [here](https://theletterish.github.io/SnakeJS/)!
